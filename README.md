@@ -16,3 +16,14 @@ Things learned:
 * .navigationBarTitle(), pickerStyle()
 * @State, $ (two-way operation)
 
+### 02 - Guess the flag
+
+![Guess-flag Image 1](images/proj2-flag1.png) ![Guess-flag Image 2](images/proj2-flag2.png) ![Guess-flag Image 3](images/proj2-flag3.png)
+
+Things learned:
+
+* Built-in styles in SwiftUI
+* VStack, HStack, ZStack, Spacer
+* Color, Gradient
+* .foregroundColor(), .font(), .fontWeight()
+* Button, Image, .randeringMode(), .clipShape(), .overlay(), .shadow(), .alert()
