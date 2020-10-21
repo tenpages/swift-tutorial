@@ -15,6 +15,7 @@ Things learned:
 * Text, TextField, Form, Section, NavigationView, Picker
 * .navigationBarTitle(), pickerStyle()
 * @State, $ (two-way operation)
+* ?? (nil coalescing operator)
 
 ### 02 - Guess the flag
 
