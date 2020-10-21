@@ -7,7 +7,7 @@ Since I'm not full-time on this, I might not be able to follow exactly after the
 
 ### 01 - WeSplit
 
-![WeSplit Image](images/proj1-wesplit.png)
+![WeSplit Image](images/proj1-wesplit.png){:height="50%" width="50%"}
 
 Things learned:
 
