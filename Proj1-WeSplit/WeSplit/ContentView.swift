@@ -67,6 +67,7 @@ struct ContentView: View {
                 
                 Section(header: Text("Grand total")) {
                     Text("$\(grandTotal, specifier: "%.2f")")
+                        .foregroundColor(grandTotal>0 ? .black : .red)
                 }
             }.navigationBarTitle("WeSplit")
         }
