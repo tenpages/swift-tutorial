@@ -28,3 +28,10 @@ Things learned:
 * Color, Gradient
 * .foregroundColor(), .font(), .fontWeight()
 * Button, Image, .randeringMode(), .clipShape(), .overlay(), .shadow(), .alert()
+
+### 03 - Views and modifiers
+
+Things learned:
+
+* How Views and Modifiers work
+* Custom views, custom ViewModifier, custom Container
