@@ -38,7 +38,7 @@ Things learned:
 
 ### 04 - Better Rest
 
-![Better rest Img 1](images/proj4-betterreset1.png) ![Better rest Img 2](images/proj4-betterrest2.png)
+![Better rest Img 1](images/proj4-betterreset1.png) ![Better rest Img 2](images/proj4-betterreset2.png)
 
 Things learned:
 
