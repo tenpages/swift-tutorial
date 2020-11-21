@@ -35,3 +35,13 @@ Things learned:
 
 * How Views and Modifiers work
 * Custom views, custom ViewModifier, custom Container
+
+### 04 - Better Rest
+
+![Better rest Img 1](images/proj4-betterreset1.png) ![Better rest Img 2](images/proj4-betterrest2.png)
+
+Things learned:
+
+* Date, DateFormatter, DateComponents
+* Stepper, DatePicker, 
+* navigationBarItems()
